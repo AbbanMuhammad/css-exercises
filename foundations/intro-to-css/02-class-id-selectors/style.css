@@ -1,0 +1,32 @@
+* {
+    border: 0px;
+    padding: 0px;
+    /* outline: 2px solid red; */
+    font-family: serif;
+}
+
+.number-1 {
+    background-color: rgb(247, 146, 159);
+    font-size: 20px;
+}
+
+#number-2 {
+    color: blue;
+    font-size: 36px;
+}
+
+.number-3 {
+    background-color: rgb(247, 146, 159);
+    font-size: 32px;
+}
+
+#number-4 {
+    background-color: lightgreen;
+    font-size: 26px;
+    font-weight: bold;
+}
+
+.number-5 {
+    background-color: rgb(247, 146, 159);
+    font-size: 20px;
+}
